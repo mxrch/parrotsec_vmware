@@ -5,4 +5,6 @@
 Since the official OVA file is for VirtualBox and crash when importing it on VMWare, here is a VMWare ready OVA file :\
 https://mega.nz/file/NYlikKxZ#Td-AIjdUAsSYoSspPE4RB0IWYxmQOyCN4JGWTmqTqIU
 
+**Current hosted Parrot Security version : 4.11.2**
+
 Nothing were modified from the official OVA file, it was just imported into VirtualBox and exported in "Open Virtualization Format 1.0" format.
